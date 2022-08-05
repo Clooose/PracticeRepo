@@ -1,0 +1,13 @@
+.text {
+  color: rgb(15, 127, 255);
+  font-size: 45px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.box {
+  width: 40rem;
+  height: 9rem;
+  border: 5px solid rgba(111, 0, 255, 0.116);
+}
